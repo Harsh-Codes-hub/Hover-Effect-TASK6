@@ -96,8 +96,8 @@ A modern, gradient-themed gallery where each image slightly enlarges on hover, r
 
 ## 👨‍💻 Author
 
-**Cohort 2.0 – Batch Task 6 Submission**
-Created by **Harsh Gajrani** *(Harsh Codes Hub)*
+**Cohort 2.0 – Batch Task 6 Submission**  
+Created by **Harsh Gajrani** _(Harsh Codes Hub)_  
 Part of the **Cohort 2.0 batch at Sheryians Coding School**
 
 ---
