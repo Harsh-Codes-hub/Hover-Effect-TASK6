@@ -41,7 +41,9 @@ Hover-Effect-TASK6/
 │ ├── apple-touch-icon.png
 │ └── site.webmanifest
 │
-└── README.md # Project documentation
+├── README.md # Project documentation
+│
+└── preview.webp # preview image of page
 ```
 
 ---
