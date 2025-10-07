@@ -99,6 +99,7 @@ button {
   background: var(--gradient-bottom);
   padding: 20px;
   flex-direction: column;
+  gap: 5px;
 }
 
 .main h1 {
